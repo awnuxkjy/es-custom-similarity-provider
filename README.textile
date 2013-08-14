@@ -17,6 +17,7 @@ curl -XPOST 'http://host:port/tweeter/' -d '
   }
 }'
 </pre> 
-
+support elasticsearch 0.90.0 version
+more info：http://www.chepoo.com
 Enjoy
 
